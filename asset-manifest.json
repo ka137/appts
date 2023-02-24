@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/appts/static/css/main.ceafd86d.css",
+    "main.js": "/appts/static/js/main.d183567e.js",
+    "static/media/likes-blue.svg": "/appts/static/media/likes-blue.811dae5a776f5d87274953d2c6976b3c.svg",
+    "static/media/likes-btn.svg": "/appts/static/media/likes-btn.9e65dfacbfbc21a0625c8c4d02b1d278.svg",
+    "static/media/logo.svg": "/appts/static/media/logo.d29956b496a767196a9bb8da660dad6e.svg",
+    "index.html": "/appts/index.html",
+    "main.ceafd86d.css.map": "/appts/static/css/main.ceafd86d.css.map",
+    "main.d183567e.js.map": "/appts/static/js/main.d183567e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ceafd86d.css",
+    "static/js/main.d183567e.js"
+  ]
+}
