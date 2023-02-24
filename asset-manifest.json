@@ -1,16 +1,14 @@
 {
   "files": {
-    "main.css": "/appts/static/css/main.ceafd86d.css",
-    "main.js": "/appts/static/js/main.9b149821.js",
-    "static/media/likes-blue.svg": "/appts/static/media/likes-blue.811dae5a776f5d87274953d2c6976b3c.svg",
-    "static/media/likes-btn.svg": "/appts/static/media/likes-btn.9e65dfacbfbc21a0625c8c4d02b1d278.svg",
+    "main.css": "/appts/static/css/main.ab785cab.css",
+    "main.js": "/appts/static/js/main.0fde1727.js",
     "static/media/logo.svg": "/appts/static/media/logo.d29956b496a767196a9bb8da660dad6e.svg",
     "index.html": "/appts/index.html",
-    "main.ceafd86d.css.map": "/appts/static/css/main.ceafd86d.css.map",
-    "main.9b149821.js.map": "/appts/static/js/main.9b149821.js.map"
+    "main.ab785cab.css.map": "/appts/static/css/main.ab785cab.css.map",
+    "main.0fde1727.js.map": "/appts/static/js/main.0fde1727.js.map"
   },
   "entrypoints": [
-    "static/css/main.ceafd86d.css",
-    "static/js/main.9b149821.js"
+    "static/css/main.ab785cab.css",
+    "static/js/main.0fde1727.js"
   ]
 }
