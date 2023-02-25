@@ -1,0 +1,40 @@
+.header {
+    position: fixed;
+    width: 100vw;
+    background-color: #0050B3;
+    z-index: 5;
+}
+.container {
+    max-width: 1200px;
+    margin: 0 auto;
+}
+.header__inner {
+    padding: 10px;
+    height: 35px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header__logo{
+    cursor: pointer;
+    height:32px;
+}
+.user {
+    cursor: pointer;
+    display: flex;
+    text-decoration: none;
+}
+.user__avatar {
+    display: flex;
+    border-radius: 50%;
+    height: 32px;
+    width: 32px;
+}
+.user__text {
+    display: flex;
+    align-items: center;
+    font-size: 14px;
+    line-height: 22px;
+    color: #fff;
+    margin: 0 8px;
+}
